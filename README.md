@@ -10,6 +10,6 @@ Most/all of the stuff I do is Minecraft related.
 - 🔭 Currently working on: a bunch of random forks :tiny_potato:
 - Discord: SpaceClouds42#0001
 - Pronouns: he/him
-<!--
-**SpaceClouds42/SpaceClouds42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
+[![SpaceClouds42's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceClouds42&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceClouds42&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
