@@ -12,4 +12,4 @@ Most/all of the stuff I do is Minecraft related.
 - Pronouns: he/him
 
 [![SpaceClouds42's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceClouds42&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceClouds42&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceClouds42&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
