@@ -9,7 +9,7 @@ Most/all of the stuff I do is Minecraft related.
 
 - 🔭 Currently working on: a bunch of random forks :tiny_potato:
 - Discord: SpaceClouds42#7337
-- Pronouns: he/him
+- Pronouns: they/them
 
 [![SpaceClouds42's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceClouds42&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceClouds42&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
