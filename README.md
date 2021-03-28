@@ -7,7 +7,7 @@ I'm a beginner programmer, familiar with Python, Java, and Kotlin.
 Most/all of the stuff I do is Minecraft related.
 
 
-- 🔭 Currently working on: a bunch of random forks :tiny_potato:
+- 🔭 Currently working on: [FabricZones](https://github.com/SpaceClouds42/FabricZones) and [ModUpdater](https://github.com/The-Tiny-Taters/Mod-Updater)
 - Discord: SpaceClouds42#7337
 - Pronouns: they/them
 
