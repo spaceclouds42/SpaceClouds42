@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a beginner programmer, familiar with Python, Java, and Kotlin.
+I code in my free time. I am familiar with Kotlin, Java, Python, Bash, and Rust.
 
 90% of the time I have no idea what I'm doing, and in the end, it probably does~~n't~~ work.
 
