@@ -4,10 +4,7 @@ I code in my free time. I am familiar with Kotlin, Java, Python, Bash, and Rust.
 
 90% of the time I have no idea what I'm doing, and in the end, it probably does~~n't~~ work.
 
-Most/all of the stuff I do is Minecraft related.
-
-
-- 🔭 Currently working on: [FabricZones](https://github.com/SpaceClouds42/FabricZones) and [ModUpdater](https://github.com/The-Tiny-Taters/Mod-Updater)
+- 🔭 Currently working on programming robots for [FRC](https://www.firstinspires.org/robotics/frc) Team [Jungle Robotics 3627](https://junglerobotics.com)
 - Discord: SpaceClouds42#2255
 - Pronouns: they/them
 
