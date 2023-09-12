@@ -6,4 +6,3 @@ I code in my free time. I am familiar with Kotlin, Java, Python, Bash, Rust, and
 
 - 🔭 Currently working on nothing much.. 🦗
 - Discord: spaceclouds42
-- Pronouns: they/them
