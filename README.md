@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I code in my free time. I am familiar with Kotlin, Java, Python, Bash, and Rust.
+I code in my free time. I am familiar with Kotlin, Java, Python, Bash, Rust, and C++.
 
 90% of the time I have no idea what I'm doing, and in the end, it probably does~~n't~~ work.
 
-- 🔭 Currently working on programming robots for [FRC](https://www.firstinspires.org/robotics/frc) Team [Jungle Robotics 3627](https://junglerobotics.com)
-- Discord: SpaceClouds42#2255
+- 🔭 Currently working on nothing much.. 🦗
+- Discord: spaceclouds42
 - Pronouns: they/them
 
 [![SpaceClouds42's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceClouds42&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
